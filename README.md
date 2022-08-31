@@ -18,6 +18,8 @@ Whatsapp : +5511972221223
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHRocha&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasHRocha)](https://github.com/anuraghazra/github-readme-stats)
+
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasHRocha&repo=calculadora_kotlin)](https://github.com/anuraghazra/github-readme-stats)
