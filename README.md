@@ -1,6 +1,6 @@
 ### Olá, Sou o Lucas, Bem-Vindo ao meu GitHub! 👋
 
-Atualmente estudando Análise e Desenvolvimento de Sistemas e buscando novas linguagens para aprender.
+Sou formado em Análise e Desenvolvimento de Sistemas e buscando novas linguagens para aprender.
 
 ### Contato
 
