@@ -6,7 +6,7 @@ Tecnólogo formado em Análise e Desenvolvimento de Sistemas pela FATEC São Cae
 
 Email : lucash.roc@hotmail.com
 
-Whatsapp : +5511972221223
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +5511972221223
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
