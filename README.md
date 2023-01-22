@@ -23,3 +23,4 @@ WhatsApp: +5511972221223
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasHRocha&repo=calculadora_kotlin)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasHRocha&repo=ScrollView)](https://github.com/anuraghazra/github-readme-stats)
